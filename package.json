@@ -48,8 +48,6 @@
     "sass": "^1.68.0"
   },
   "dependencies": {
-    "pinia": "^2.1.6",
-    "@pinia/nuxt": "^0.4.11",
     "digimarket-nuxt-layer-blog": "^1.0.0-development.7"
   },
   "publishConfig": {
