@@ -48,7 +48,7 @@
     "sass": "^1.68.0"
   },
   "dependencies": {
-    "digimarket-nuxt-layer-blog": "^1.0.0-development.4"
+    "digimarket-nuxt-layer-blog": "^1.0.0-development.6"
   },
   "publishConfig": {
     "access": "public"
