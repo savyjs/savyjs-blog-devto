@@ -51,7 +51,7 @@
     "vue": "latest"
   },
   "dependencies": {
-    "digimarket-nuxt-layer-blog": "^1.0.0-development.10"
+    "digimarket-nuxt-layer-blog": "^1.0.0-development.11"
   },
   "publishConfig": {
     "access": "public"
