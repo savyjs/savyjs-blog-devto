@@ -51,7 +51,6 @@
     "vue": "latest"
   },
   "dependencies": {
-    "pinia": "^2.1.6",
     "digimarket-nuxt-layer-blog": "^1.0.0-development.10"
   },
   "publishConfig": {
