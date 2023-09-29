@@ -47,6 +47,9 @@
     "typescript": "^4.9.5",
     "sass": "^1.68.0"
   },
+  "overrides": {
+    "vue": "latest"
+  },
   "dependencies": {
     "pinia": "^2.1.6",
     "digimarket-nuxt-layer-blog": "^1.0.0-development.10"
