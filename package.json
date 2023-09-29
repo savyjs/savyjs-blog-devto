@@ -48,7 +48,7 @@
     "sass": "^1.68.0"
   },
   "dependencies": {
-    "digimarket-nuxt-layer-core": "^1.0.0-development.22",
+    "pinia": "^2.1.6",
     "digimarket-nuxt-layer-blog": "^1.0.0-development.10"
   },
   "publishConfig": {
